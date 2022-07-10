@@ -15,7 +15,7 @@ body{	justify-content:center;
 	opacity:1;
 	width:5%;
 	position:absolute;
-	border-radius:30%;}
+	border-radius:60% 60% 5% 5%;}
 #hour{
 	left:48.5%;
 	height:23%;
@@ -23,7 +23,7 @@ body{	justify-content:center;
 	top:26.8%;
 	width:4%;}
 #minute{
-	background:linear-gradient(cornsilk,cornsilk,blue,cornsilk,cornsilk);
+	background:navy;
 	left:49.3%;
         height:29%;
         top:20.8%;
@@ -33,7 +33,6 @@ body{	justify-content:center;
 	left:50%;
         height:35%;
         top:14.7%;
-	border-radius:50%;
         width:1%;}
 .shree{
         text-align:center;
