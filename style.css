@@ -9,7 +9,9 @@ body{	justify-content:center;
 	top:25vh;
 	position:relative;
 	background:url("Clock.png") no-repeat;
-	height:50vh;
+	left:2.5vmax;
+	height:45vmax;
+	width:45vmax;
 	border-radius:50%;
 	background-size:cover;}
 #hour,#minute, #second{
